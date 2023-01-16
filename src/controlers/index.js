@@ -1,6 +1,6 @@
 function index(req, res) {
-     res.render('register', {
-        title: 'Cadastro de clientes'
+     res.render('index', {
+        title: 'Página inicial'
     })
 }
 
